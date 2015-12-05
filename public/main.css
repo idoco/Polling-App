@@ -1,0 +1,26 @@
+#title {
+    display: inline-block;
+}
+#not-found {
+    display: block;
+}
+#red_circle {
+    width: 30px;
+    height: 30px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    display: inline-block;
+    margin-left: 20px;
+    background: red;
+}
+#green_circle {
+    width: 30px;
+    height: 30px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    display: inline-block;
+    margin-left: 20px;
+    background: green;
+}
